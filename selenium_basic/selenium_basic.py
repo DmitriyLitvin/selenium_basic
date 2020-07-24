@@ -7,6 +7,4 @@
 # Click on [Normal success message button]
 
 
-
-
 # assert appeared green success message
